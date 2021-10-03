@@ -17,7 +17,7 @@
 ##### Our motive is to build a Bird classifier using CNN classification.This project would help people to identify birds in real time-made possible using opencv videoCapture.<br></br>We have also used flask to integrate the image upload section so that a user could directly upload the image of a bird from their local storage.
 
 ## Dataset
-##### Our custom dataset consists of 150 classes (150 birds) with 5850 total images .<br></br>No. of images - 150.<br></br>No. of images per class - 39
+##### Our custom dataset consists of 150 classes (150 birds) with 5850 total images .<br></br>No. of images - 21649.<br></br>No. of images per class - 39
 
 ### Screenshots
 
